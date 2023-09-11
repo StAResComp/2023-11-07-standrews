@@ -233,6 +233,8 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
+  Registration is via the University's <a
+  href='https://www.st-andrews.ac.uk/pdms/index.php?mode=single&query=13920'>Personal Development Management System</a>.
 </p>
 
 <p id="roles">
